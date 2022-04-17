@@ -8,6 +8,6 @@ Registration or login system can handle errors.
 Admin can access the dashboard. Courses add or deletion, review or user management operations 
 like blocking users or deleting review etc could be done. Also admin can make other admin.
 
-Live Link : https://prismatic-centaur-c1c8d5.netlify.app/ \n
+Live Link : https://prismatic-centaur-c1c8d5.netlify.app/ </br>
 Client site code : https://github.com/seamount97/Swap-Idea-client-app \n
 Server site code : https://github.com/seamount97/Swap-Idea-Server \n
