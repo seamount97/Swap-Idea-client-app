@@ -42,19 +42,19 @@ const DashboardHome = () => {
 
     // Fetching for state
     useEffect(() => {
-        fetch('http://localhost:5000/courses')
+        fetch('https://damp-fortress-02449.herokuapp.com/courses')
             .then(res => res.json())
             .then(data => setCourses(data))
     }, [])
 
     useEffect(() => {
-        fetch('http://localhost:5000/users')
+        fetch('https://damp-fortress-02449.herokuapp.com/users')
             .then(res => res.json())
             .then(data => setUsers(data))
     }, [])
 
     useEffect(() => {
-        fetch('http://localhost:5000/feedbacks')
+        fetch('https://damp-fortress-02449.herokuapp.com/feedbacks')
             .then(res => res.json())
             .then(data => setFeedbacks(data))
     }, [])
