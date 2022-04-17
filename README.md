@@ -5,7 +5,7 @@ Users can enroll in courses and view videos and details after registration.
 Users can send email directly & give feedback which is shown in the slider.
 Registration system is email password system.
 Registration or login system can handle errors.
-Admin can access the dashboard. Courses add or deletion, review or user management operations </br>
+Admin can access the dashboard. Courses add or deletion, review or user management operations 
 like blocking users or deleting review etc could be done. Also admin can make other admin.
 
 Live Link : https://prismatic-centaur-c1c8d5.netlify.app/ </br>
