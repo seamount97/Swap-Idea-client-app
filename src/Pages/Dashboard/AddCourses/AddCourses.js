@@ -45,7 +45,7 @@ const AddCourses = () => {
                     borderRadius: 1,
                 }}
             >
-                <Chip label="ADD PRODUCT" variant="outlined" sx={{ fontSize: '1.1rem' }} />
+                <Chip label="ADD COURSE" variant="outlined" sx={{ fontSize: '1.1rem' }} />
                 <Box component="form" noValidate onSubmit={handleSubmit} sx={{ mt: 1 }}>
                     <TextField
                         margin="normal"
